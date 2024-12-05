@@ -38,14 +38,15 @@ Install dependencies (if any, e.g., using npm or pip):
 bash
 Copy code
 npm install
-# or
+
+
 pip install -r requirements.txt
 Run the project:
 
 bash
 Copy code
 npm start
-# or
+
 python app.py
 Contribution
 We welcome contributions to make EAZY RESTAURANT even better! If you want to contribute, feel free to fork the repo, make changes, and create a pull request.
